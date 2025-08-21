@@ -8,7 +8,7 @@
 <a href="https://www.x.com/iniiking" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iniiking?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
