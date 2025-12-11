@@ -6,6 +6,10 @@ I code things
 ## ⏱️ WakaTime Stats
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@iniisking&theme=dark&hide_border=false&layout=compact)](https://wakatime.com/@iniisking)
 
+## 📊 Weekly Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
 
 ## 🌐 Socials:
