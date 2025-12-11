@@ -1,5 +1,12 @@
+<div align="center">
+
 # Hi! I'm Ini
 I code things
+
+## ⏱️ WakaTime Stats
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@iniisking&theme=dark&hide_border=false&layout=compact)](https://wakatime.com/@iniisking)
+
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iniisking) 
@@ -43,11 +50,8 @@ I code things
 ![](https://nirzak-streak-stats.vercel.app/?user=iniisking&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iniisking&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ⏱️ WakaTime Stats
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=iniisking&theme=dark&hide_border=false)
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=iniisking&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 🏆 GitHub Achievements
+![](https://github-profile-trophy.vercel.app/?username=iniisking&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iniisking&limit=5&theme=dark&combine_all_yearly_contributions=true)
