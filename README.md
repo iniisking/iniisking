@@ -10,15 +10,15 @@ I code things
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2025 - To: 21 December 2025
+From: 15 December 2025 - To: 22 December 2025
 
-Total Time: 10 hrs 22 mins
+Total Time: 12 hrs 16 mins
 
-Dart       9 hrs 29 mins   ███████████████████████░░   91.59 %
-Java       33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-JSON       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Dart       11 hrs 45 mins  ████████████████████████░   95.80 %
+JSON       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Java       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
