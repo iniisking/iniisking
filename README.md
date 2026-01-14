@@ -10,15 +10,15 @@ I code things
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2026 - To: 11 January 2026
+From: 05 January 2026 - To: 12 January 2026
 
-Total Time: 18 hrs 44 mins
+Total Time: 17 hrs 8 mins
 
-Java              12 hrs 57 mins  █████████████████▒░░░░░░░   69.19 %
-Dart              4 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
-YAML              31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-SQL               16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Java Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Java              12 hrs 57 mins  ███████████████████░░░░░░   75.59 %
+Dart              2 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+YAML              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+SQL               16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Java Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
