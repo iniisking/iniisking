@@ -10,15 +10,15 @@ I code things
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2026 - To: 09 June 2026
+From: 03 June 2026 - To: 10 June 2026
 
-Total Time: 25 hrs 12 mins
+Total Time: 17 hrs 52 mins
 
-Dart          23 hrs 1 min          ██████████████████████▓░░   91.14 %
-YAML          52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Markdown      40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Python        9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-XML           8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Dart          15 hrs 52 mins        ██████████████████████░░░   88.50 %
+YAML          50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Markdown      38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Python        9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+JSON          4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
