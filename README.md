@@ -1,12 +1,96 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=IniOluwa%20Longe&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Mobile%20engineer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Shipping%20to%20the%20stores&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="IniOluwa Longe" />
+
 <div align="center">
 
-# Hi! I'm Ini
-I code things
+<a href="https://iniisking.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Ini+%F0%9F%91%8B;I+build+mobile+apps+people+actually+use;Flutter+%2F+Dart+%E2%80%A2+Swift+%E2%80%A2+Node;Currently+shipping+ChowTap+%F0%9F%8D%94%F0%9F%9B%B5" alt="Typing intro" />
+</a>
 
-## ⏱️ WakaTime Stats
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@iniisking&theme=dark&hide_border=false&layout=compact)](https://wakatime.com/@iniisking)
+<br/>
 
-## 📊 Weekly Coding Activity
+[![Website](https://img.shields.io/badge/iniisking.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iniisking.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inilonge)
+[![X](https://img.shields.io/badge/@iniisking-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iniisking)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iniisking)
+[![Email](https://img.shields.io/badge/Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inilonge@gmail.com)
+
+</div>
+
+---
+
+### 🧑🏾‍💻 About me
+
+```dart
+final ini = Engineer(
+  name: 'IniOluwa Longe',
+  role: 'Mobile engineer',
+  building: 'ChowTap: customer, rider & vendor apps',
+  stack: ['Flutter', 'Dart', 'Swift', 'Node.js', 'Firebase', 'AWS'],
+  loves: ['pixel-perfect UI', 'smooth animations', 'shipping'],
+  askMeAbout: ['Flutter architecture', 'real-time apps', 'payments'],
+);
+```
+
+### 🚀 Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍔 <a href="https://chowtap.com">ChowTap</a></h4>
+      Food delivery built for campus life. I build the three apps behind it:
+      <b>customer</b>, <b>rider</b> and <b>vendor</b>, with live order
+      tracking, wallets, chat and SLA timers.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets-111827?style=flat-square&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/In_production-22C55E?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💳 <a href="https://github.com/iniisking/manycards-mobile">ManyCards</a></h4>
+      Multi-currency wallet for NGN, USD and GBP: virtual cards, subcards,
+      Paystack funding and currency conversion.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logo=paystack&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗣️ <a href="https://github.com/iniisking/sorosokay">Sorosokay</a></h4>
+      Speech-first note taking, designed around the Yoruba language.
+      Talk, and your notes write themselves.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Speech_to_text-F59E0B?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📺 <a href="https://github.com/iniisking/roku-ssdp">roku-ssdp</a></h4>
+      Finds and controls Roku &amp; Google TV devices on your network with
+      native Android SSDP/mDNS discovery.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<sub>More: <a href="https://github.com/iniisking/jollycast">Jollycast</a> (podcast streaming with offline playback) · <a href="https://github.com/iniisking/biometrics-dashboard">Biometrics Dashboard</a> (Flutter web) · <a href="https://github.com/iniisking/cloture">Cloture</a> (e-commerce)</sub>
+
+### 🛠️ Tech I reach for
+
+<p align="center">
+  <b>Mobile</b><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio&perline=10" alt="Mobile" />
+  <br/><br/>
+  <b>Backend &amp; data</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,js,python,java,spring,kafka,postgres,mysql,mongodb,sqlite,dynamodb&perline=11" alt="Backend" />
+  <br/><br/>
+  <b>Cloud &amp; tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite,aws,gcp,cloudflare,vercel,netlify,githubactions,git,figma&perline=11" alt="Cloud" />
+</p>
+
+### ⏱️ This week in code
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -23,57 +107,25 @@ JavaScript    34 mins               ▓░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+### 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iniisking&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA" alt="GitHub streak" />
+</p>
+
+### 🐍 Eating my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iniisking/iniisking/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/iniisking/iniisking/output/snake.svg" />
+</picture>
+
+<div align="center">
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=iniisking&style=flat-square&color=7C3AED&label=profile+views)
+
 </div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iniisking) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inilonge) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iniisking) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inilonge@gmail.com) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iniisking&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iniisking&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iniisking&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=iniisking&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iniisking&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=iniisking&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=110&section=footer" width="100%" alt="" />
