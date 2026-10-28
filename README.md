@@ -89,7 +89,14 @@ final ini = Engineer(
   <img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite,aws,gcp,cloudflare,vercel,netlify,githubactions,git,figma&perline=11" alt="Cloud" />
 </p>
 
-### ⏱️ This week in code
+### ⏱️ A year in code
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./waka/heatmap-dark.svg" />
+  <img alt="WakaTime coding activity heatmap" src="./waka/heatmap.svg" width="100%" />
+</picture>
+
+<sub>This week, by language:</sub>
 
 <!--START_SECTION:waka-->
 

@@ -1,0 +1,33 @@
+name: WakaTime heatmap
+
+on:
+  schedule:
+    - cron: '30 0 * * *'  # 12:30 AM UTC daily, after Waka Readme
+  workflow_dispatch:
+
+concurrency:
+  group: profile-readme-commits
+  cancel-in-progress: false
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Draw heatmap
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python3 .github/scripts/waka_heatmap.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add waka
+          git diff --cached --quiet && exit 0
+          git commit -m "Update WakaTime heatmap"
+          git pull --rebase
+          git push
