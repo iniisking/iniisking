@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://iniisking.com">
-  <img src="./assets/typing.svg" width="640" alt="Hey, I'm Ini. I build mobile apps people actually use. Currently shipping ChowTap." />
+  <img src="./assets/intro.svg" width="640" alt="Hey, I'm Ini. I build mobile apps people actually use. Currently shipping ChowTap." />
 </a>
 
 <br/>
@@ -36,7 +36,7 @@ final ini = Engineer(
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="./assets/chowtap.svg" height="20" align="top" alt="" /> <a href="https://chowtap.com">ChowTap</a></h4>
+      <h4><img src="./assets/chowtap-logo.svg" height="20" align="top" alt="" /> <a href="https://chowtap.com">ChowTap</a></h4>
       Food delivery built for campus life. I build the three apps behind it:
       <b>customer</b>, <b>rider</b> and <b>vendor</b>, with live order
       tracking, wallets, chat and SLA timers.

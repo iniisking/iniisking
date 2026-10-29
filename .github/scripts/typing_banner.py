@@ -8,7 +8,7 @@ GitHub shows it as an image. Run it again after changing LINES.
 import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
-OUT = ROOT / "assets" / "typing.svg"
+OUT = ROOT / "assets" / "intro.svg"
 
 # (text, show the ChowTap logo after it)
 LINES = [
