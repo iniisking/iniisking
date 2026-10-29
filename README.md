@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://iniisking.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Ini+%F0%9F%91%8B;I+build+mobile+apps+people+actually+use;Flutter+%2F+Dart+%E2%80%A2+Swift+%E2%80%A2+Node;Currently+shipping+ChowTap+%F0%9F%8D%94%F0%9F%9B%B5" alt="Typing intro" />
+  <img src="./assets/typing.svg" width="640" alt="Hey, I'm Ini. I build mobile apps people actually use. Currently shipping ChowTap." />
 </a>
 
 <br/>
@@ -36,7 +36,7 @@ final ini = Engineer(
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🍔 <a href="https://chowtap.com">ChowTap</a></h4>
+      <h4><img src="./assets/chowtap.svg" height="20" align="top" alt="" /> <a href="https://chowtap.com">ChowTap</a></h4>
       Food delivery built for campus life. I build the three apps behind it:
       <b>customer</b>, <b>rider</b> and <b>vendor</b>, with live order
       tracking, wallets, chat and SLA timers.
