@@ -1,4 +1,4 @@
-"""Writes assets/typing.svg: the intro lines typed out and erased in turn,
+"""Writes assets/intro.svg: the intro lines typed out and erased in turn,
 with the ChowTap logo appearing after the last line.
 
 Plain SMIL animation (no scripts or external fonts), so it plays when
