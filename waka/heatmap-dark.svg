@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="751" height="187" viewBox="0 0 751 187" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
 <rect x="0.5" y="0.5" width="750" height="186" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="16" y="24" font-size="14" font-weight="600" fill="#f0f6fc">882h 48m of coding in the last year</text>
+<text x="16" y="24" font-size="14" font-weight="600" fill="#f0f6fc">886h 34m of coding in the last year</text>
 <text x="46" y="44" font-size="12" fill="#f0f6fc">Nov</text>
 <text x="111" y="44" font-size="12" fill="#f0f6fc">Dec</text>
 <text x="163" y="44" font-size="12" fill="#f0f6fc">Jan</text>
@@ -86,7 +86,7 @@
 <rect x="163" y="104" width="10" height="10" rx="2" fill="#1a64b5"><title>1h 48m on Jan 1, 2026</title></rect>
 <rect x="163" y="117" width="10" height="10" rx="2" fill="#3d8fe6"><title>2h 50m on Jan 2, 2026</title></rect>
 <rect x="163" y="130" width="10" height="10" rx="2" fill="#151b23"><title>No coding on Jan 3, 2026</title></rect>
-<rect x="176" y="52" width="10" height="10" rx="2" fill="#1a64b5"><title>52m on Jan 4, 2026</title></rect>
+<rect x="176" y="52" width="10" height="10" rx="2" fill="#0d3a6b"><title>52m on Jan 4, 2026</title></rect>
 <rect x="176" y="65" width="10" height="10" rx="2" fill="#1a64b5"><title>1h 55m on Jan 5, 2026</title></rect>
 <rect x="176" y="78" width="10" height="10" rx="2" fill="#3d8fe6"><title>3h 6m on Jan 6, 2026</title></rect>
 <rect x="176" y="91" width="10" height="10" rx="2" fill="#1a64b5"><title>1h 51m on Jan 7, 2026</title></rect>
@@ -221,7 +221,7 @@
 <rect x="410" y="130" width="10" height="10" rx="2" fill="#3d8fe6"><title>4h 38m on May 16, 2026</title></rect>
 <rect x="423" y="52" width="10" height="10" rx="2" fill="#8cc8ff"><title>7h 33m on May 17, 2026</title></rect>
 <rect x="423" y="65" width="10" height="10" rx="2" fill="#3d8fe6"><title>4h 39m on May 18, 2026</title></rect>
-<rect x="423" y="78" width="10" height="10" rx="2" fill="#3d8fe6"><title>2h 24m on May 19, 2026</title></rect>
+<rect x="423" y="78" width="10" height="10" rx="2" fill="#1a64b5"><title>2h 24m on May 19, 2026</title></rect>
 <rect x="423" y="91" width="10" height="10" rx="2" fill="#0d3a6b"><title>38m on May 20, 2026</title></rect>
 <rect x="423" y="104" width="10" height="10" rx="2" fill="#8cc8ff"><title>8h 29m on May 21, 2026</title></rect>
 <rect x="423" y="117" width="10" height="10" rx="2" fill="#8cc8ff"><title>5h 40m on May 22, 2026</title></rect>
@@ -384,8 +384,9 @@
 <rect x="722" y="65" width="10" height="10" rx="2" fill="#3d8fe6"><title>3h 45m on Oct 26, 2026</title></rect>
 <rect x="722" y="78" width="10" height="10" rx="2" fill="#3d8fe6"><title>4h 11m on Oct 27, 2026</title></rect>
 <rect x="722" y="91" width="10" height="10" rx="2" fill="#8cc8ff"><title>7h 43m on Oct 28, 2026</title></rect>
-<rect x="722" y="104" width="10" height="10" rx="2" fill="#0d3a6b"><title>31m on Oct 29, 2026</title></rect>
-<text x="46" y="174" font-size="12" fill="#9198a1">293 active days · tracked by WakaTime</text>
+<rect x="722" y="104" width="10" height="10" rx="2" fill="#3d8fe6"><title>3h 0m on Oct 29, 2026</title></rect>
+<rect x="722" y="117" width="10" height="10" rx="2" fill="#1a64b5"><title>1h 17m on Oct 30, 2026</title></rect>
+<text x="46" y="174" font-size="12" fill="#9198a1">294 active days · tracked by WakaTime</text>
 <text x="630" y="174" font-size="12" text-anchor="end" fill="#9198a1">Less</text>
 <rect x="636" y="165" width="10" height="10" rx="2" fill="#151b23"/>
 <rect x="649" y="165" width="10" height="10" rx="2" fill="#0d3a6b"/>
