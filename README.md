@@ -101,15 +101,15 @@ final ini = Engineer(
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2026 - To: 28 October 2026
+From: 22 October 2026 - To: 29 October 2026
 
-Total Time: 21 hrs 7 mins
+Total Time: 20 hrs 55 mins
 
-Dart              16 hrs 36 mins        █████████████████░░░░░░░░   68.03 %
-Other             3 hrs 17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-YAML              1 hr 12 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Markdown          57 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Bash              43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Dart              16 hrs 12 mins        █████████████████▒░░░░░░░   69.47 %
+Other             2 hrs 25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+Bash              1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+YAML              53 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Markdown          45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
